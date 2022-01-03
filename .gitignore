@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/cinematic-space-drone-10623.mp3
+
+# Jet Branins
+.idea
